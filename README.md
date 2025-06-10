@@ -32,8 +32,5 @@ Use the API endpoints to register, add expenses, set budgets, and view reports.
 
 
 
-You’ve hit the Free plan limit for GPT-4o.
-Responses will use another model until your limit resets after 6:48 PM.
 
-Get Plus
 
